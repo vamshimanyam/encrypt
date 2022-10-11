@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/vamshimanyam/encrypt/static/css/main.8c3980df.css",
-    "main.js": "/vamshimanyam/encrypt/static/js/main.f4b8aa8f.js",
-    "static/js/787.635aedaa.chunk.js": "/vamshimanyam/encrypt/static/js/787.635aedaa.chunk.js",
-    "index.html": "/vamshimanyam/encrypt/index.html",
-    "main.8c3980df.css.map": "/vamshimanyam/encrypt/static/css/main.8c3980df.css.map",
-    "main.f4b8aa8f.js.map": "/vamshimanyam/encrypt/static/js/main.f4b8aa8f.js.map",
-    "787.635aedaa.chunk.js.map": "/vamshimanyam/encrypt/static/js/787.635aedaa.chunk.js.map"
+    "main.css": "/encrypt/static/css/main.8c3980df.css",
+    "main.js": "/encrypt/static/js/main.0c71eab9.js",
+    "static/js/787.635aedaa.chunk.js": "/encrypt/static/js/787.635aedaa.chunk.js",
+    "index.html": "/encrypt/index.html",
+    "main.8c3980df.css.map": "/encrypt/static/css/main.8c3980df.css.map",
+    "main.0c71eab9.js.map": "/encrypt/static/js/main.0c71eab9.js.map",
+    "787.635aedaa.chunk.js.map": "/encrypt/static/js/787.635aedaa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8c3980df.css",
-    "static/js/main.f4b8aa8f.js"
+    "static/js/main.0c71eab9.js"
   ]
 }
