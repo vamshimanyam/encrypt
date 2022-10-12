@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/encrypt/static/css/main.dcfd8915.css",
-    "main.js": "/encrypt/static/js/main.daef5cd8.js",
+    "main.js": "/encrypt/static/js/main.342c3433.js",
     "static/js/787.635aedaa.chunk.js": "/encrypt/static/js/787.635aedaa.chunk.js",
-    "static/media/food.png": "/encrypt/static/media/food.70e0a7ef130fcf9aa01d.png",
-    "static/media/emoji.png": "/encrypt/static/media/emoji.21e067f9a0e3c8ab2e93.png",
-    "static/media/animal.png": "/encrypt/static/media/animal.af5fb679805efae68039.png",
-    "static/media/decryptwith.png": "/encrypt/static/media/decryptwith.120ed290b54bb535e5ba.png",
-    "static/media/multi.png": "/encrypt/static/media/multi.5ce56e04e57b808c30bc.png",
-    "static/media/decrypt.png": "/encrypt/static/media/decrypt.35d0fa52c8af5f0f0a64.png",
-    "static/media/decryptwithout.png": "/encrypt/static/media/decryptwithout.0084d5b38e8791827784.png",
-    "static/media/secret.png": "/encrypt/static/media/secret.89d2c07825341f834dc2.png",
-    "static/media/text.png": "/encrypt/static/media/text.fae6b2ea93ebdd0e6072.png",
+    "static/media/multi.webp": "/encrypt/static/media/multi.d82286f643acecb36677.webp",
+    "static/media/emoji.webp": "/encrypt/static/media/emoji.28c7e6aa7730be04417c.webp",
+    "static/media/decryptwith.webp": "/encrypt/static/media/decryptwith.dc3ed88f10955b1a51dd.webp",
+    "static/media/animal.webp": "/encrypt/static/media/animal.9a2c2709e6169d86fd98.webp",
+    "static/media/food.webp": "/encrypt/static/media/food.8578a0c0e2294aa0c016.webp",
+    "static/media/decrypt.webp": "/encrypt/static/media/decrypt.b97c4c0340bf2e5b0b53.webp",
+    "static/media/decryptwithout.webp": "/encrypt/static/media/decryptwithout.f9c08114d3c24cdd9b4d.webp",
+    "static/media/secret.webp": "/encrypt/static/media/secret.3777d9450cdd274a8ba5.webp",
+    "static/media/text.webp": "/encrypt/static/media/text.b720d72c5773039f4e3c.webp",
     "index.html": "/encrypt/index.html",
     "main.dcfd8915.css.map": "/encrypt/static/css/main.dcfd8915.css.map",
-    "main.daef5cd8.js.map": "/encrypt/static/js/main.daef5cd8.js.map",
+    "main.342c3433.js.map": "/encrypt/static/js/main.342c3433.js.map",
     "787.635aedaa.chunk.js.map": "/encrypt/static/js/787.635aedaa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dcfd8915.css",
-    "static/js/main.daef5cd8.js"
+    "static/js/main.342c3433.js"
   ]
 }
