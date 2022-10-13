@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/encrypt/static/css/main.895e0339.css",
-    "main.js": "/encrypt/static/js/main.5486dcdd.js",
+    "main.css": "/encrypt/static/css/main.a7a20d12.css",
+    "main.js": "/encrypt/static/js/main.343239d5.js",
     "static/js/787.635aedaa.chunk.js": "/encrypt/static/js/787.635aedaa.chunk.js",
     "static/media/multi.webp": "/encrypt/static/media/multi.d82286f643acecb36677.webp",
     "static/media/emoji.webp": "/encrypt/static/media/emoji.28c7e6aa7730be04417c.webp",
@@ -14,12 +14,12 @@
     "static/media/secret.webp": "/encrypt/static/media/secret.3777d9450cdd274a8ba5.webp",
     "static/media/text.webp": "/encrypt/static/media/text.b720d72c5773039f4e3c.webp",
     "index.html": "/encrypt/index.html",
-    "main.895e0339.css.map": "/encrypt/static/css/main.895e0339.css.map",
-    "main.5486dcdd.js.map": "/encrypt/static/js/main.5486dcdd.js.map",
+    "main.a7a20d12.css.map": "/encrypt/static/css/main.a7a20d12.css.map",
+    "main.343239d5.js.map": "/encrypt/static/js/main.343239d5.js.map",
     "787.635aedaa.chunk.js.map": "/encrypt/static/js/787.635aedaa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.895e0339.css",
-    "static/js/main.5486dcdd.js"
+    "static/css/main.a7a20d12.css",
+    "static/js/main.343239d5.js"
   ]
 }
